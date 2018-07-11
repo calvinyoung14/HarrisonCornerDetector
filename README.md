@@ -1,1 +1,1 @@
-# HarrisonCornerDetector
+# HarrisCornerDetector
